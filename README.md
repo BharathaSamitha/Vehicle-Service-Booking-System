@@ -103,9 +103,4 @@ Frontend:
 - Service category management
 - Dashboard with statistics
 
-## Contact & Support
 
-For issues or feature requests, open an issue or contact the maintainer.
-
-## License
-MIT
